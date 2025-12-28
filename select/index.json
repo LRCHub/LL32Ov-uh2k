@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Feels",
+  "base_artist": "Ed Sheeran",
+  "createdAt": "2025-12-28T03:28:41.058611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feels Like Home",
+      "artist": "Tyler Rich",
+      "has_synced": true,
+      "path": "select/01_Feels_Like_Home_Tyler_Rich.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feels Like Love",
+      "artist": "Vince Gill",
+      "has_synced": false,
+      "path": "select/02_Feels_Like_Love_Vince_Gill.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feels Like The First Time",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/03_Feels_Like_The_First_Time_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feels Like a Party",
+      "artist": "Locash",
+      "has_synced": true,
+      "path": "select/04_Feels_Like_a_Party_Locash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Feels so Right",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/05_Feels_so_Right_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feels So Right",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/06_Feels_So_Right_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "How Country Feels",
+      "artist": "Randy Houser",
+      "has_synced": true,
+      "path": "select/07_How_Country_Feels_Randy_Houser.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "How Forever Feels",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/08_How_Forever_Feels_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Know How He Feels",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/09_I_Know_How_He_Feels_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Feels Good",
+      "artist": "Drake White",
+      "has_synced": false,
+      "path": "select/10_It_Feels_Good_Drake_White.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Losing You Feels Good",
+      "artist": "Martina McBride",
+      "has_synced": true,
+      "path": "select/11_Losing_You_Feels_Good_Martina_McBride.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Feels",
+      "artist": "Maren Morris",
+      "has_synced": false,
+      "path": "select/12_The_Feels_Maren_Morris.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feels Bad Man",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/13_Feels_Bad_Man_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Feels Bad Man (Instrumental)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/14_Feels_Bad_Man_(Instrumental)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Feels Like I'm in Love",
+      "artist": "Kelly Marie",
+      "has_synced": false,
+      "path": "select/15_Feels_Like_I'm_in_Love_Kelly_Marie.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "How Do You Think It Feels",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/16_How_Do_You_Think_It_Feels_Lou_Reed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feels (feat. Young Thug & J Hus)",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/pl_01_Feels_(feat._Young_Thug_&_J_Hus)_Ed_Sheeran.txt"
+    }
+  ]
+}
